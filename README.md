@@ -111,6 +111,22 @@ Arduino-based robotics experiments involving sensors, motors and autonomous robo
 
 ---
 
+## 🏢 Organization
+
+<div align="center">
+
+<a href="https://github.com/swaxforce">
+  <img src="https://img.shields.io/badge/SWAXFORCE-Engineering%20Organization-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="SWAXFORCE" />
+</a>
+
+<br/>
+
+<sub>Collaborative projects across AI, software, robotics and embedded systems.</sub>
+
+</div>
+
+---
+
 ## 🌱 Current Learning
 
 ```text
