@@ -99,6 +99,16 @@ Arduino-based robotics experiments involving sensors, motors and autonomous robo
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/keremberk8/keremberk8/main/assets/pro-snake.svg" alt="Professional contribution snake animation" width="900" />
+
+</div>
+
+---
+
 ## 🌱 Current Learning
 
 ```text
