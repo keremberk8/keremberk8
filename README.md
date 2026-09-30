@@ -8,6 +8,49 @@
 
 </div>
 
+--
+
+# 🏢 SWAXFORCE
+
+<div align="center">
+
+<a href="https://github.com/swaxforce">
+  <img src="https://img.shields.io/badge/SWAXFORCE-Engineering%20Organization-111827?style=for-the-badge&logo=github&logoColor=white" alt="SWAXFORCE" />
+</a>
+
+<br/><br/>
+
+<strong>Building projects together across AI, software, robotics and embedded systems.</strong>
+
+<br/>
+
+<sub>My collaborative engineering work lives here alongside team projects and experiments.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Agents-8b5cf6?style=flat-square&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Software-06b6d4?style=flat-square&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Robotics-f97316?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-22c55e?style=flat-square&logo=arduino&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/swaxforce">
+  <img src="https://img.shields.io/badge/Explore%20SWAXFORCE-→-7c3aed?style=for-the-badge" alt="Explore SWAXFORCE" />
+</a>
+
+</div>
+
+<div align="center">
+
+### ◈ From ideas to team-built systems
+
+| AI & Automation | Software Engineering | Robotics & Embedded |
+|:---:|:---:|:---:|
+| Agents • Local AI | Web • APIs • Tools | Arduino • Sensors • Control |
+
+</div>
+
 ---
 
 ## 👋 About Me
@@ -109,23 +152,7 @@ Arduino-based robotics experiments involving sensors, motors and autonomous robo
 
 <sub>The snake follows the contribution graph and consumes contribution cells as it moves.</sub>
 
----
-
-## 🏢 Organization
-
-<div align="center">
-
-<a href="https://github.com/swaxforce">
-  <img src="https://img.shields.io/badge/SWAXFORCE-Engineering%20Organization-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="SWAXFORCE" />
-</a>
-
-<br/>
-
-<sub>Collaborative projects across AI, software, robotics and embedded systems.</sub>
-
-</div>
-
----
+-
 
 ## 🌱 Current Learning
 
