@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate GitHub contribution snake
 
 on:
   workflow_dispatch:
@@ -12,19 +12,19 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: keremberk8
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github&color_snake=#7c3aed&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8b5cf6&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Publish snake to output branch
+      - name: Publish snake assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
