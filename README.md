@@ -103,9 +103,11 @@ Arduino-based robotics experiments involving sensors, motors and autonomous robo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/keremberk8/keremberk8/main/assets/pro-snake.svg" alt="Professional contribution snake animation" width="900" />
+<img src="https://raw.githubusercontent.com/keremberk8/keremberk8/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="900" />
 
 </div>
+
+<sub>The snake follows the contribution graph and consumes contribution cells as it moves.</sub>
 
 ---
 
