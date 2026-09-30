@@ -89,13 +89,15 @@ Arduino-based robotics experiments involving sensors, motors and autonomous robo
 
 ---
 
-## 🐍 Contribution Journey
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/keremberk8/keremberk8/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/keremberk8/keremberk8/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="900" />
 
 </div>
+
+<sub>Animated from my GitHub contribution graph.</sub>
 
 ---
 
